@@ -8,7 +8,7 @@ html {
 body {
   background-color: black;
   line-height: 1.2;
-  color: #efefef;
+  color: #fff;
   font-family: 'Droid Sans', sans-serif;
 }
 /**
@@ -51,15 +51,12 @@ body {
   margin-top: 12em;
 }
 
-.footer {margin-top: 200px;}
+.footer {margin-top: 200px;font-size: 10px;}
 
 .sidebar {
   padding: 20px;
   margin-top: 0px;
   width: 240px;
-  background-color:black;
-  opacity: .75;
-  color: #efefef;
 }
 
 .sidebar {float:right;}
