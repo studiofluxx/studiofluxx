@@ -9,6 +9,7 @@ body {
   background-color: black;
   line-height: 1.2;
   color: #efefef;
+  font-family: 'Droid Sans', sans-serif;
 }
 /**
  * For modern browsers
@@ -41,19 +42,17 @@ body {
   max-width: 1200px;
   margin-right: auto;
   margin-left: auto;
-  margin-top: 4em;
+  margin-top: 1em;
 }
 .content {
   padding: 0 15px;
   width: 800px;
+  float: left;
+  margin-top: 12em;
 }
 
 .footer {margin-top: 200px;}
 
-.content p,
-.sidebar p{
- font-family: 'Droid Sans', sans-serif;
-}
 .sidebar {
   padding: 20px;
   margin-top: 0px;
@@ -61,15 +60,6 @@ body {
   background-color:black;
   opacity: .75;
   color: #efefef;
-}
-
-.sidebar  p, h3 {opacity:1;}
-.sidebar h3 {
-  margin: 0;
-}
-.content {
-  float: left;
-  margin-top: 80px;
 }
 
 .sidebar {float:right;}
@@ -81,3 +71,7 @@ body {
   position: sticky;
   top: 15px;
 }
+
+.hero {font-size: 72px;}
+
+.right {text-align: right}
