@@ -1,31 +1,27 @@
-# [Bootstrap 3 Fixed Width Sidebar Template](http://www.digitalinternals.com/design/bootstrap-fixed-width-sidebar/555/)
+# [Start Bootstrap](http://startbootstrap.com/) - [Simple Sidebar](http://startbootstrap.com/template-overviews/simple-sidebar/)
 
-A Bootstrap 3 template to create fixed width sidebars.
+[Simple Sidebar](http://startbootstrap.com/template-overviews/simple-sidebar/) is an off canvas sidebar navigation template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
-## Introduction
+## Getting Started
 
-This template creates 2 css styles: `col-fixed` and `col-fluid` that will be used to replace the standard Bootstrap `col-*` grid classes. 
-* `col-fixed` has a fixed width and is used for the sidebar
-* `col-fluid` uses the remaining width and is used for the main content
+To begin using this template, choose one of the following options to get started:
+* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/simple-sidebar/)
+* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-simple-sidebar.git`
+* Fork the repo
 
-In this template, `col-fixed` is set to 350 pixels. Note that on mobile (<768px), it will be set to 100% width. 
+## Bugs and Issues
 
-## Demo
-
-For a demo, do the following:
-* Clone the repo: `git clone https://gitlab.com/digitalinternals/bootstrap-fixed-width-sidebar-template.git`
-* Open `index.html` from browser
-* Resize browser to verify
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-simple-sidebar/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/simple-sidebar/).
 
 ## Creator
 
-Bootstrap 3 Fixed Width Sidebar Template was created by and is maintained by **[Mohamed Ibrahim](http://www.digitalinternals.com/)**.
+Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
 
-* https://twitter.com/ibrahimayoob
-* https://gitlab.com/ibrahim
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
 
-This template is based on the [Bootstrap](http://getbootstrap.com/) framework.
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
 ## Copyright and License
 
-Copyright 2008-2016 Digital Internals. Code released under the [MIT](https://gitlab.com/digitalinternals/bootstrap-fixed-width-sidebar-template/blob/master/LICENSE) license.
+Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-simple-sidebar/blob/gh-pages/LICENSE) license.
